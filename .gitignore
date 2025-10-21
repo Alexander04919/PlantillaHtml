@@ -1,0 +1,32 @@
+# Archivos de configuración de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsidx
+*.vssscc
+
+# Carpetas de compilación
+bin/
+obj/
+
+# IIS Express
+applicationhost.config
+
+# Configuración local
+*.dbmdl
+*.log
+*.wsuo
+*.json
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Editor Visual Studio Code
+.vscode/
