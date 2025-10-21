@@ -30,3 +30,5 @@ Thumbs.db
 
 # Editor Visual Studio Code
 .vscode/
+# Ignorar archivos de mapeo de Bootstrap
+*.map
